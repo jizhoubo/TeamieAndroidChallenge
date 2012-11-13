@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, WikipediaGameActivity!</string>
+    <string name="app_name">WikipediaGame</string>
+    <string name="app_name_2">ScorePanel</string>
+    
+
+</resources>
